@@ -34,7 +34,7 @@ Make sure that you flash both the cores at the start of the project or after swi
 
 ### Without Calendar .ics
 
-1. Open a terminal within the folder that your desktop application python scripts are located in.
+1. Open a terminal within the folder that your [desktop application python scripts](Example/Desktop) are located in.
 2. Make sure the MCU is connected to the desktop and flashed with the example program.
 3. Call the desktop application with
 ```
@@ -49,7 +49,7 @@ Now watch the blue LED on the development board.  It will turn on for 5 seconds 
 1. Open the calendar app on your computer of your liking.
 2. Add a number of events to the calendar making sure none overlap.
 3. Export the calendar to an .ics file.  Keep note of its location.
-4. Open a terminal within the folder that your desktop application python scripts are located in.
+4. Open a terminal within the folder that your [desktop application python scripts](Example/Desktop) are located in.
 5. Make sure the MCU is connected to the desktop and flashed with the example program.
 5. Call the desktop application with
 ```
