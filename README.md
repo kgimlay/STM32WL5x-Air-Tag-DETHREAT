@@ -4,7 +4,15 @@ This example brings together the [Calendar Module](https://github.com/kgimlay/ST
 
 ## Installation Instructions
 
-[Example for MCU](Example/MCU)
+You will be importing the [example project](Example/MCU) provided.
+
+1. Within STM32CubeIDE, navigate to File > Import.
+2. Choose "Existing Projects into Workspace".
+3. Choose "Browse".
+4. Within the [Example](Example) folder provided, select the "AIR_Tag_Or_DETHREAD_Framework" directory and choose "Open".
+5. Make sure all three projects are selected (two sub-projects, one for each core, and one parent project).  If three are not present, make sure "Search for nested projects" is selected.
+6. Select "Finish".
+7. Your project should be imported.  Make sure that the .ioc and two sub-projects are present as shown here.
 
 ## Flashing
 
