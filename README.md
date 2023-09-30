@@ -4,7 +4,7 @@ This example brings together the [Calendar Module](https://github.com/kgimlay/ST
 
 ## Installation Instructions
 
-
+[Example for MCU](Example/MCU)
 
 ## Flashing
 
